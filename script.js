@@ -1,5 +1,5 @@
 var titulo = document.querySelector(".titulo");
-titulo.textContent = "Aparecida Nutricionista"
+titulo.textContent = "Tabela Nutricional"
 
 var paulo = document.querySelector('#linhaPaulo');
 var pesoPaulo = document.querySelector('.info-peso').textContent;
